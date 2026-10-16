@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "foundplay-creators": {
+      "type": "http",
+      "url": "https://foundplay.io/mcp/creators"
+    }
+  }
+}
