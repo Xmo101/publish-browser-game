@@ -60,7 +60,7 @@ A game on its own site gets few visitors until it is listed somewhere players al
 - It goes live right away and joins the next drop (6 AM or 6 PM Pacific).
 - A share link that earns bonus plays.
 - Claim, edit or take down anytime.
-- Boost from $10 for guaranteed plays, if you want paid promotion.
+- Boost from $15 for guaranteed plays, if you want paid promotion.
 
 Portals such as CrazyGames and Poki host the games they accept and share ad revenue. As of October 2026, CrazyGames asks for its SDK and Poki's revenue share deals are web exclusive by default, so read their developer terms first.
 
